@@ -1,14 +1,18 @@
 {
-  "name": "cryptothree/bitcoin",
+  "name": "efrost-deltaplan/bitcoin",
   "description": "PHP Bitcoin library with functions for transactions, signatures, serialization, Random/Deterministic ECDSA keys, blocks, RPC bindings",
   "type": "library",
-  "homepage": "https://github.com/cryptothree/bitcoin-php",
+  "homepage": "https://github.com/efrost-deltaplan/bitcoin-php",
   "license": "Unlicense",
   "authors": [
     {
       "name": "Thomas Kerin",
       "homepage": "https://thomaskerin.io",
       "role": "Author"
+    },
+    {
+      "name": "Eugene Frost",
+      "email": "e.frost@deltaplan.pro"
     }
   ],
   "autoload": {

@@ -14,7 +14,7 @@ This repository contains an implementation of Bitcoin using mostly pure PHP.
 
 ## Installation
 
-You can install this library via Composer: `composer require protonlabs/bitcoin`
+You can install this library via Composer: `composer require efrost-deltaplan/bitcoin`
 
 ## Contributing
 
